@@ -8,7 +8,7 @@
 # In this change method, create columns with the correct names and
 # value types according to the spec
 class CreateCostumes < ActiveRecord::Migration
-  def change
-    add column
-  end
+  # def change
+  #   add column()
+  # end
 end
