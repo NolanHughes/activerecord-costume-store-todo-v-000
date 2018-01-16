@@ -5,7 +5,7 @@ class CreateCostumeStores < ActiveRecord::Migration[4.2]
       name
       location
       costume_inventory
-      number of employees
+      num_of_employees
       whether or not its still in business
       opening_time
       closing_time
